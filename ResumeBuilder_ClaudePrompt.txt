@@ -1,0 +1,82 @@
+# ═══════════════════════════════════════════════════════════════
+#  RESUME BUILDER — CLAUDE.AI PROMPT
+#  No coding required. Just copy, paste, and fill in the blanks.
+# ═══════════════════════════════════════════════════════════════
+#
+#  HOW TO USE THIS FILE:
+#
+#  1. Open claude.ai in your web browser (or any AI chatbot
+#     that supports file uploads and tools)
+#  2. Start a new conversation
+#  3. Open THIS file in Notepad (Windows) or TextEdit (Mac)
+#  4. Select ALL the text below the dashed line (Ctrl+A or Cmd+A)
+#  5. Copy it (Ctrl+C or Cmd+C)
+#  6. Paste it into the Claude.ai chat box (Ctrl+V or Cmd+V)
+#  7. BEFORE you send it, replace [PASTE YOUR DATA HERE] with
+#     the actual data from the Google Sheet (see README for how)
+#  8. Press Enter or click Send
+#  9. Claude will build the resume and show it to you!
+#
+#  OPTIONAL: You can also upload the CSV file directly in Claude.ai
+#  by clicking the paperclip 📎 icon and selecting your CSV file.
+#  Then paste this prompt WITHOUT the data section and just say
+#  "use the uploaded file."
+#
+# ═══════════════════════════════════════════════════════════════
+
+---------- COPY EVERYTHING BELOW THIS LINE ----------
+
+You are a professional resume writer. I need you to build a complete, polished resume from the information below.
+
+IMPORTANT INSTRUCTIONS — READ THESE CAREFULLY:
+
+1. RESUME TYPE: Look at the "Which best describes the type of resume you need?" answer first. This determines everything — the format, the tone, the length, and the level of detail. Here is what each type means:
+
+   - Part-Time / Hourly Work → Keep it to ONE page. Simple, clean format. Focus on reliability, availability, and specific job duties. Use plain language. No fancy jargon.
+   - Entry-Level / First Job → ONE page. Emphasize education, volunteer work, personal skills, and eagerness to learn. Include any experience at all — babysitting, helping family, school projects.
+   - Professional / Mid-Career → ONE to TWO pages. Standard professional format. Strong summary. Quantify accomplishments wherever possible (numbers, percentages, team sizes).
+   - Senior / Management → TWO pages. Leadership-focused. Emphasize team management, results, budgets managed, people developed. Strong executive summary.
+   - Executive / C-Suite → TWO to THREE pages. Board-ready. Strategic language. Focus on organizational impact, P&L responsibility, vision and transformation. Include a strong Executive Profile section.
+   - Creative / Portfolio-Based → ONE to TWO pages. Can be more visually described in text. Include links to portfolio/website. Show personality while staying professional.
+   - Technical / IT / Engineering → ONE to TWO pages. Include a dedicated Technical Skills section near the top. List technologies, languages, frameworks, tools. Quantify engineering achievements.
+   - Federal / Government → Follow USA Jobs format. Can be THREE or more pages. Include GS pay grade if applicable, citizenship, veteran preference, detailed duties for EACH position.
+   - Not sure → Use all information provided to choose the best format and explain your choice at the top.
+
+2. WRITE THE RESUME IN THIS STRUCTURE (adjusted for resume type):
+   a. Name and contact info (bold name, contact details on one or two lines)
+   b. Professional Summary or Objective (2-4 sentences, tailored to job target)
+   c. Work Experience (reverse chronological — most recent first, bullet points)
+   d. Education
+   e. Certifications & Licenses (if any)
+   f. Skills (grouped into categories if there are many)
+   g. Languages (if multilingual)
+   h. Military Service (if applicable)
+   i. Volunteer Work (if relevant)
+   j. References (listed or "Available upon request")
+
+3. WRITING STYLE:
+   - Use strong action verbs to start every bullet point (Managed, Operated, Trained, Achieved, Delivered, etc.)
+   - Quantify wherever possible: instead of "helped customers" say "assisted 50+ customers daily"
+   - Be honest — do not invent accomplishments, but DO present real ones in the best light
+   - Match the tone to the resume type (plain and direct for hourly work, strategic for executive)
+   - Fix any grammar or spelling from the form answers, but keep the person's voice
+
+4. OUTPUT FORMAT:
+   First, output the complete resume in clean, readable plain text.
+   Then, at the end, write a short section called "RESUME NOTES" that includes:
+   - What resume type you used and why
+   - 2-3 specific strengths you noticed in this person's background
+   - 1-2 suggestions for things they could add or improve (gently worded)
+
+═══════════════════════ FORM DATA BELOW ═══════════════════════
+
+[PASTE YOUR DATA HERE]
+
+If you received a CSV file, the first row contains the question names
+and each row after that is one person's answers.
+
+═══════════════════════ END OF FORM DATA ═══════════════════════
+
+Please build the resume now. Format it clearly so I can read it, copy it, or share it right away.
+
+---------- STOP COPYING HERE ----------
